@@ -48,7 +48,7 @@
 - Tomcat v8.0+
 - Apache Maven
 
-Note:- This is a my Sample Project, So we have used only Generic Servlet and not taken care for Security.
+Note:- This is a my own Sample Project, So we have used only Generic Servlet and not taken care for Security.
 
 ### =============== Dummy Database Initialization =====================
 
